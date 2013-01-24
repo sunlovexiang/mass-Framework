@@ -948,4 +948,4 @@ define("query",["mass"], function( $ ){
 2012.5.21 对body进行优化
 https://github.com/CNEYE/JReally
 */
-
+//测试用
